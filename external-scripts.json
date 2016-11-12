@@ -1,0 +1,13 @@
+[
+  "hubot-diagnostics",
+  "hubot-help",
+  "hubot-pugme",
+  "hubot-maps",
+  "hubot-redis-brain",
+  "hubot-rules",
+  "hubot-shipit",
+  "hubot-aws",
+  "hubot-auth",
+  "hubot-docker",
+  "hubot-response"
+]
